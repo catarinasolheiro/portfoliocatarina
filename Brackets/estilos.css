@@ -1,0 +1,499 @@
+body {
+    font-family: 'Open Sans', Verdana, sans-serif;
+    background-color: #fafafa;
+    font-size: 1em;
+    text-align: left;
+    color: #131E29;
+    background-color: #fafafa;
+    font-weight: 400;
+}
+
+header {
+    height: 1000px;
+    background-color: blue;
+    background-image: url(06.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 3.95em;
+    margin-bottom: 0;
+    color: #3366CC;
+    margin-left: 150px;
+    font-family: 'Montserrat', 'Lato', sans-serif;
+}
+
+h2,
+h3 {
+    color: #E26631;
+    line-height: 2.5em;
+    font-size: 2em;
+}
+
+
+strong {
+    color: #FFCC33;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img.align-right1 {
+    float: right;
+    width: 400px;
+    margin-bottom: 10px;
+}
+
+nav li {
+    display: inline-block;
+    padding: 15px;
+    font-weight: 400;
+}
+
+nav ul {
+    margin: 10;
+    margin-top: 0;
+    text-align: right;
+}
+
+
+.informacao1 {
+    margin-top: 100px;
+    margin-left: -110px;
+    padding-top: 650px;
+    color: #FFCC33;
+    font-size: 2em;
+    font-weight: 800;
+    font-family: 'Montserrat', 'Lato', sans-serif;
+    background-image: url(retrato.jpg);
+    background-size: 600px;
+    background-repeat: no-repeat;
+    background-position: right;
+    text-transform: uppercase;
+}
+
+.informacao2 {
+    margin-left: 90px;
+    margin-right: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.informacao3 {
+    text-align: right;
+    background-image: url(Ativo%204.png);
+    background-size: 80px;
+    background-repeat: no-repeat;
+    margin-left: 90px;
+    margin-bottom: 150px;
+    background-position: left;
+}
+
+.margens {
+    width: 1000px;
+    margin: auto;
+}
+
+.voltar {
+    margin-bottom: 150px;
+    margin-top: 50px;
+}
+
+.titulos {
+    padding-left: 200px;
+    padding-top: 200px;
+}
+
+.destaque {
+    font-size: 1.2em;
+    line-height: 2em
+}
+
+.tabela {
+    color: #3366CC;
+}
+
+.lista {
+    color: #3366CC;
+    margin-bottom: 1.5em;
+    margin-top: 1.5em;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.coluna1 {
+    column-count: 2;
+    column-gap: 150px;
+    margin-bottom: 150px;
+}
+
+.coluna2 {
+
+    font-size: 1.7em;
+    column-count: 2;
+    column-gap: 150px;
+    margin-bottom: 300px;
+    text-align: center;
+}
+
+.coluna3 {
+    column-count: 2;
+    column-gap: 150px;
+    margin-top: 50px;
+}
+
+.portfolio1 strong,
+.portfolio4 strong,
+.portfolio5 strong,
+.portfolio8 strong,
+.portfolio9 strong {
+    color: #3366CC;
+    font-family: 'Montserrat', 'Lato', sans-serif;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+.portfolio2 strong,
+.portfolio3 strong,
+.portfolio6 strong,
+.portfolio7 strong,
+.portfolio10 strong {
+    font-family: 'Montserrat', 'Lato', sans-serif;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+.portfolio1 {
+    margin-top: 250px;
+    height: 325px;
+    width: 39%;
+    text-align: center;
+    padding-top: 75px;
+    float: left;
+    margin-left: 10px;
+    background-color: antiquewhite;
+    background-image: url(paginas_principais/portefolio/cartaz_atwi/Mockup2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.portfolio2 {
+    margin-top: 20px;
+    height: 325px;
+    width: 59%;
+    text-align: center;
+    padding-top: 75px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: antiquewhite;
+    background-image: url(paginas_principais/portefolio/infografia_grandhotelbudapest/INFOGRAFIA%20final_page-00012.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.portfolio3 {
+    margin-top: 10px;
+    height: 325px;
+    width: 59%;
+    text-align: center;
+    padding-top: 75px;
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: antiquewhite;
+    background-image: url(paginas_principais/portefolio/leu/Horizontal_Book_Mockup_2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.portfolio4 {
+    margin-top: 10px;
+    height: 325px;
+    width: 39%;
+    text-align: center;
+    padding-top: 75px;
+    float: right;
+    background-color: antiquewhite;
+    margin-right: 10px;
+    background-image: url(paginas_principais/portefolio/waves/Grupo4_Espe%CC%81cime%20copy_page-0006.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.portfolio5 {
+    margin-top: 10px;
+    height: 325px;
+    width: 39%;
+    text-align: center;
+    padding-top: 75px;
+    float: left;
+    background-color: antiquewhite;
+    margin-left: 10px;
+    background-image: url(paginas_principais/portefolio/prazer_desproibido/Fronte22.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.portfolio6 {
+    margin-top: 10px;
+    height: 325px;
+    width: 59%;
+    text-align: center;
+    padding-top: 75px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: antiquewhite;
+    background-image: url(paginas_principais/portefolio/stojo/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.portfolio7 {
+    margin-top: 10px;
+    height: 325px;
+    width: 59%;
+    text-align: center;
+    padding-top: 75px;
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: antiquewhite;
+    background-image: url(paginas_principais/portefolio/kamu/21.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+}
+
+.portfolio8 {
+    margin-top: 10px;
+    height: 325px;
+    width: 39%;
+    text-align: center;
+    padding-top: 75px;
+    float: right;
+    background-color: antiquewhite;
+    margin-right: 10px;
+    background-image: url(paginas_principais/portefolio/candeeiro/2.272.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    position: relative;
+}
+
+.portfolio9 {
+    margin-top: 10px;
+    height: 325px;
+    width: 39%;
+    text-align: center;
+    padding-top: 75px;
+    float: left;
+    background-color: antiquewhite;
+    margin-left: 10px;
+    background-image: url(paginas_principais/portefolio/floreira/2_floreira.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin-bottom: 150px;
+}
+
+.portfolio10 {
+    margin-top: 10px;
+    height: 325px;
+    width: 59%;
+    text-align: center;
+    padding-top: 75px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: antiquewhite;
+    background-image: url(paginas_principais/portefolio/pousa_revistas/3_alturas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin-bottom: 150px;
+}
+
+.font1 {
+    font-size: 1.7em;
+}
+
+.subtitulo {
+    margin-left: -170px;
+}
+
+#cartaz {
+    margin-top: 80px;
+}
+
+#contactos {
+    font-size: 3em;
+    text-align: center;
+}
+
+#apresentacao {
+    margin-left: -80px;
+}
+
+#nome {
+    font-weight: 600;
+    font-size: 1em;
+    margin-top: 25px;
+    margin-left: -25px;
+}
+
+#numero {
+    margin-top: 0px;
+    color: #FFCC33;
+}
+
+#seta {
+    height: 80px;
+    margin-left: 480;
+    margin-top: 20px;
+}
+
+#seta2 {
+    height: 80px;
+    margin-top: 80px;
+    margin-bottom: 70px;
+    margin-left: 175px;
+
+}
+
+#realce {
+    background-color: #E26631;
+    font-weight: 600;
+}
+
+#competencias {
+    margin-top: 0;
+    font-size: 1.7em;
+}
+
+a.one:link,
+a.one:visited {
+    background-color: #E26631;
+    color: #fafafa;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a.one:hover {
+    color: #FFCC33;
+
+}
+
+a.one:active {
+    color: #3366CC;
+
+}
+
+a.two:link {
+    color: #131E29;
+    text-decoration: underline;
+    text-decoration-color: #FFCC33;
+}
+
+a.two:visited {
+    color: #131E29;
+    text-decoration: underline;
+    text-decoration-color: #E26631;
+}
+
+a.two:hover {
+    color: white;
+    background-color: #FFCC33;
+    background-clip: content-box;
+    text-decoration: none;
+}
+
+a.two:active {
+    color: white;
+    background-color: #E26631;
+    text-decoration: none;
+}
+
+
+a.three:link,
+a.three:visited {
+    color: #FFCC33;
+    text-decoration: none;
+}
+
+a.three:hover {
+    color: #3366CC;
+}
+
+a.three:active {
+    color: #FFCC33;
+}
+
+a.four:link,
+a.four:visited {
+    color: #fafafa;
+    text-decoration: none;
+    font-weight: 600;
+
+}
+
+a.four:hover {
+    color: #3366CC;
+}
+
+a.four:active {
+    color: #FFCC33;
+}
+
+a.five:link,
+a.five:visited {
+    color: #FFCC33;
+    text-decoration: none;
+    font-weight: 600;
+
+}
+
+a.five:hover {
+    color: #3366CC;
+}
+
+a.five:active {
+    color: #E26631;
+}
+
+a.six:link,
+a.six:visited {
+    text-transform: uppercase;
+    font-family: 'Montserrat', 'Lato', sans-serif;
+    font-weight: 800;
+    font-size: 1.3em;
+    text-decoration: none;
+    color: #E26631;
+}
+
+a.six:hover {
+    color: #3366CC;
+}
+
+a.six:active {
+    color: #FFCC33;
+}
